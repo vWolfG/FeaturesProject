@@ -1,0 +1,24 @@
+PODS:
+  - Cartography (4.0.0)
+  - Reusable (4.1.1):
+    - Reusable/Storyboard (= 4.1.1)
+    - Reusable/View (= 4.1.1)
+  - Reusable/Storyboard (4.1.1)
+  - Reusable/View (4.1.1)
+
+DEPENDENCIES:
+  - Cartography
+  - Reusable
+
+SPEC REPOS:
+  trunk:
+    - Cartography
+    - Reusable
+
+SPEC CHECKSUMS:
+  Cartography: c5626d29056b20f1e95c017326ee4df57cc39ad8
+  Reusable: 53a9acf5c536f229b31b5865782414b508252ddb
+
+PODFILE CHECKSUM: 85ccc422e5354fefa42fd582784280171f824523
+
+COCOAPODS: 1.9.3
